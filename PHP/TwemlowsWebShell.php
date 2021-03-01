@@ -1,6 +1,10 @@
 <?php
 // Created by Twemlow	
 /*
+   Login: Twemlow
+   Password: Emrys
+*/
+/*
 
 /$$$$$$$$                                       /$$                                         /$$$$$$$$                                            
 |__  $$__/                                      | $$                                        | $$_____/                                            
